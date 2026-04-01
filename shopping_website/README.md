@@ -1,6 +1,6 @@
-#Mavazi Online Shopping Website 
+#MAVAZI OLINE SHOPPING WEBSITE
 
-#Overview 
+#OVERVIEW
 
 Mavazi Online Shopping is an e-commerce website that allows users to browse and purchase clothing online. The platform provides a simple and user-friendly interface where customers can view products, learn about services, and interact with the business. 
 
@@ -8,39 +8,39 @@ The project is built using HTML and CSS, making it lightweight and easy to custo
 
  
 
-#Features 
+#FEATURES
 
-Responsive website design  
+- Responsive website design  
 
-Homepage with featured products  
+- Homepage with featured products  
 
-Services section displayed in interactive boxes  
+- Services section displayed in interactive boxes  
 
-Navigation bar for easy browsing  
+- Navigation bar for easy browsing  
 
-Product listings for clothing items  
+- Product listings for clothing items  
 
-Contact section  
+- Contact section  
 
-Simple and clean user interface  
+- Simple and clean user interface  
 
-Beginner-friendly structure  
-
- 
-
-##Technologies Used 
-
-HTML5  
-
-CSS3  
-
-Bootstrap (optional)  
-
-Git & GitHub for version control  
+- Beginner-friendly structure  
 
  
 
-##Project Structure 
+##TECHNOLOGIES USED
+
+- HTML5  
+
+- CSS3  
+
+- Bootstrap (optional)  
+
+- Git & GitHub for version control  
+
+ 
+
+##PROJECT STRUCTURE
 
 mavazi-online-shopping/ 
 │ 
@@ -60,19 +60,19 @@ mavazi-online-shopping/
 
  
 
-##Installation / How to Run the Project 
+##INSTALLATION/HOWTO RUN THE PROJECT
 
-Clone the repository:  
+- Clone the repository:  
 
-Open the project folder:  
+- Open the project folder:  
 
-cd mavazi-online-shopping 
+- cd mavazi-online-shopping 
 
-Open index.html in your browser.  
+- Open index.html in your browser.  
 
  
 
-##How to Use 
+##HOW TO USE
 
 Browse products on the homepage  
 
@@ -84,50 +84,50 @@ Contact the business through the contact page
 
  
 
-##Deployment 
+##DEPLOYMENT
 
-You can deploy the website using GitHub Pages: 
+- You can deploy the website using GitHub Pages: 
 
-Push your project to GitHub  
+- Push your project to GitHub  
 
-Go to repository Settings  
+- Go to repository Settings  
 
-Click Pages  
+- Click Pages  
 
-Select branch main  
+- Select branch main  
 
-Save  
+- Save  
 
-Your website will be live online. 
-
- 
-
-##Future Improvements 
-
-Add shopping cart functionality  
-
-Add login and signup page  
-
-Add payment integration  
-
-Connect to database (MySQL)  
-
-Add product search feature  
-
-Improve UI using Bootstrap or Tailwind CSS  
-
-Make website fully dynamic using JavaScript or PHP  
+- Your website will be live online. 
 
  
 
-##Authors
+##FUTURE IMPROVEMENTS
 
-Kelvin Tullo 
+- Add shopping cart functionality  
 
-Keshawn Kingori 
+- Add login and signup page  
 
-Mercy Cherop 
+- Add payment integration  
 
-Lisabeth Omondi 
+- Connect to database (MySQL)  
+
+- Add product search feature  
+
+- Improve UI using Bootstrap or Tailwind CSS  
+
+- Make the website fully dynamic using JavaScript or PHP  
+
+ 
+
+##AUTHORS
+
+- Kelvin Tullo 
+
+- Keshawn Kingori 
+
+- Mercy Cherop 
+
+- Lisabeth Omondi 
 
  
